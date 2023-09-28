@@ -133,8 +133,6 @@ class hotelmanage:
 
         
 
-        
-
 def main():
 
     a=hotelmanage()
