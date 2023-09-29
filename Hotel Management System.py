@@ -128,7 +128,6 @@ class hotelmanage:
         print ("Your grandtotal Purchased is:",self.rt+self.a,"\n")
         self.rno+=1
 
-            
 
     
 
