@@ -126,8 +126,6 @@ class hotelmanage:
         print ("Additional Service Charges is",self.a)
         print ("Your grandtotal Purchased is:",self.rt+self.a,"\n")
         self.rno+=1
-
-
     
 
 def main():
