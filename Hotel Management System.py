@@ -108,7 +108,6 @@ class hotelmanage:
         print ("Total food Cost=Rs",self.r,"\n")
 
 
-
     def display(self):
         print ("******HOTEL BILL******")
         print ("Customer details:")
