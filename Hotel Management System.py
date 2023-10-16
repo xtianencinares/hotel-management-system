@@ -6,7 +6,6 @@ class hotelmanage:
 
         self.rt=rt
 
-    
         self.r=r
         self.t=t
         self.p=p
