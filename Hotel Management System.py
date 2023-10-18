@@ -5,7 +5,6 @@ class hotelmanage:
         print ("\n\n*****WELCOME TO HOTEl DE Bocz*****\n")
 
         self.rt=rt
-
         self.r=r
         self.t=t
         self.p=p
