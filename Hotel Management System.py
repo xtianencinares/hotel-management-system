@@ -21,7 +21,7 @@ class hotelmanage:
         self.cindate=input("\nEnter your check in date:")
         self.coutdate=input("\nEnter your checkout date:")
         print("Your room no.:",self.rno,"\n")
-        
+         
     def roomrent(self):#sel1353
 
         print ("We have the following rooms for you:-")
