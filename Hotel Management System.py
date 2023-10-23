@@ -78,7 +78,6 @@ class hotelmanage:
 
             c=int(input("Enter the number of your choice:"))
 
- 
             if (c==1):
                 d=int(input("Enter the quantity:"))
                 self.r=self.r+100*d
