@@ -127,7 +127,6 @@ class hotelmanage:
 def main():
 
     a=hotelmanage()
-    
 
     while (1):
         print("1.Enter Customer Data")
