@@ -47,7 +47,7 @@ class hotelmanage:
         elif (x==2):
 
             print ("you have choose room Class B")
-
+ 
             self.s=3000*n
 
         elif (x==3):
