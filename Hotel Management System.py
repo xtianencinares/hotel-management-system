@@ -24,10 +24,6 @@ class hotelmanage:
          
     def roomrent(self):#sel1353
 
-        #Convert From Float int to flout
-        x= 1 # int 
-        y= 2.8 # Flout 
-        z= 1j # Complex
 
         print ("We have the following rooms for you:-")
 
