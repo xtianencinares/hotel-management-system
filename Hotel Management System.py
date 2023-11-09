@@ -27,7 +27,7 @@ class hotelmanage:
         print ("We have the following rooms for you:-")
 
         print ("1.  Class A---->4000")
-
+ 
         print ("2.  Class B---->3000")
 
         print ("3.  Class C---->2000")
