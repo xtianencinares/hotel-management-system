@@ -13,7 +13,7 @@ class hotelmanage:
         self.name=name
         self.address=address 
         self.cindate=cindate 
-        self.coutdate=coutdate
+        self.coutdate=coutdate 
         self.rno=rno 
     def inputdata(self): 
         self.name=input("\nEnter your Fullname:") 
