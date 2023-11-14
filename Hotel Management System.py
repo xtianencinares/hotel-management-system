@@ -23,7 +23,7 @@ class hotelmanage:
         print("Your room no.:",self.rno,"\n")
          
     def roomrent(self):#sel1353
-
+ 
 
         print ("We have the following rooms for you:-")
 
