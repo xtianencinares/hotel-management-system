@@ -57,7 +57,7 @@ class hotelmanage:
 
         elif (x==4):
             print ("you have choose room Class D")
-
+ 
             self.s=1000*n
 
         else:
