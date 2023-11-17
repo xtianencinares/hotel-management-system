@@ -23,7 +23,6 @@ class hotelmanage:
          
     def roomrent(self):#sel1353
  
-
         print ("We have the following rooms for you:-")
 
         print ("1.  Class A---->4000")
