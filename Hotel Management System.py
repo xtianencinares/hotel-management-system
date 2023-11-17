@@ -8,7 +8,7 @@ class hotelmanage:
         self.r=r
         self.t=t
         self.p=p 
-        self.s=s 
+        self.s=s  
         self.a=a
         self.name=name   
         self.address=address 
