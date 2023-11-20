@@ -70,8 +70,8 @@ class hotelmanage:
 
         print("*****RESTAURANT MENU*****")
 
-        print("1.Dessert----->100","2.Drinks----->50","3.Breakfast--->90","4.Lunch---->110","5.Dinner--->150","6.Exit") 
-
+        print("1.Dessert----->100","2.Drinks----->50","3.Breakfast--->90","4.Lunch---->110","5.Dinner--->150","6.Exit")  
+        
         while (1):
 
             c=int(input("Enter the number of your choice:"))
