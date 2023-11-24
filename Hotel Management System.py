@@ -114,7 +114,7 @@
         print ("Room no.",self.rno)
         print ("Your Room rent is:",self.s)
         print ("Your Food bill is:",self.r)
-
+ 
         self.rt=self.s+self.t+self.p+self.r
 
         print ("Your sub total Purchased is:",self.rt)
