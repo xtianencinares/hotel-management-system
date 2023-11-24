@@ -141,7 +141,7 @@ def main():
         if (b==1):
             a.inputdata()
 
-        if (b==2):
+        if (b==2): 
 
             a.roomrent()
 
