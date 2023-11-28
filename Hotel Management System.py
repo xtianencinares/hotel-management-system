@@ -16,7 +16,7 @@
         self.rno=rno   
     def inputdata(self): 
         self.name=input("\nEnter your Fullname:") 
-        self.address=input("\nEnter your address:")
+        self.address=input("\nEnter your address:") 
         self.cindate=input("\nEnter your check in date:")
         self.coutdate=input("\nEnter your checkout date:")  
         print("Your room no.:",self.rno,"\n")
