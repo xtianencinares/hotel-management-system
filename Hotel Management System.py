@@ -19,7 +19,7 @@
         self.address=input("\nEnter your address:") 
         self.cindate=input("\nEnter your check in date:")
         self.coutdate=input("\nEnter your checkout date:")  
-        print("Your room no.:",self.rno,"\n")
+        print("Your room no.:",self.rno,"\n") 
          
     def roomrent(self):#sel1353
  
