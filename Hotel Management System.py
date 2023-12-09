@@ -29,7 +29,7 @@
   
         print ("2.  Class B---->3000")
 
-        print ("3.  Class C---->2000")
+        print ("3.  Class C---->2500")
 
         print ("4.  Class D---->1000")
 
