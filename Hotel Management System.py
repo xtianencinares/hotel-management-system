@@ -105,7 +105,7 @@
 
 
     def display(self):
-        print ("*******HOTEL BILL*******")
+        print ("*********HOTEL BILL*******")
         print ("Customer details:")
         print ("Customer name:",self.name)
         print ("Customer address:",self.address)
