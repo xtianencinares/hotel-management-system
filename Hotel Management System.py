@@ -14,7 +14,7 @@
         self.cindate=cindate 
         self.coutdate=coutdate
         self.rno=rno   
-    def inputdata(self):
+    def inputdata(self): 
         self.name=input("\nEnter your Fullname:") 
         self.address=input("\nEnter your address:") 
         self.cindate=input("\nEnter your check in date:")
