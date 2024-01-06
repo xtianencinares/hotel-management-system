@@ -9,7 +9,7 @@
         self.p=p 
         self.s=s
         self.a=a 
-        self.name=name   
+        self.name=name 
         self.address=address
         self.cindate=cindate 
         self.coutdate=coutdate
