@@ -160,6 +160,5 @@ def main():
 
 main()
 
-//version 7.1
-
+// Consume the newline character Version 7.1
 
