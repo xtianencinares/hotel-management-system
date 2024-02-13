@@ -21,7 +21,7 @@
         self.coutdate=input("\nEnter your checkout date:")  
         print("Your room no.:",self.rno,"\n")  
          
-    def roomrent(self):#sel1353 
+    def roomrent(self):#sel1353  
  
         print ("We have the following rooms for you:-")
  
