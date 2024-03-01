@@ -22,7 +22,7 @@
         print("Your room no.:",self.rno,"\n")  
          
     def roomrent(self):#sel1353  
- 
+
         print ("We have the following rooms for you:-")
  
         print ("1.  Class A---->4540")
@@ -160,4 +160,5 @@ def main():
 main()
 
 // Consume the newline character Version 7.1
+// End of Qotation 
 
