@@ -2,7 +2,7 @@
 
     def __init__(self,rt='',s=0,p=0,r=0,t=0,a=1000,name='',address='',cindate='',coutdate='',rno=1):
  
-        print ("\n\n*****WELCOME TO HOTEl DE Bocz v1.10****\n")
+        print ("\n\n*****WELCOME TO HOTEl DE Bocz v1.12****\n")
         self.rt=rt 
         self.r=r
         self.t=t 
@@ -13,7 +13,7 @@
         self.address=address 
         self.cindate=cindate  
         self.coutdate=coutdate
-        self.rno=rno   
+        self.rno=rno    
     def inputdata(self):    
         self.name=input("\nEnter your Fullname:") 
         self.address=input("\nEnter your address:")    
