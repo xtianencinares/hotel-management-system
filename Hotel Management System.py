@@ -25,7 +25,7 @@
 
         print ("We have the following rooms for you:-")
  
-        print ("1.  Class A---->4540")
+        print ("1.  Class A---->4500")
   
         print ("2.  Class B---->3000")
 
