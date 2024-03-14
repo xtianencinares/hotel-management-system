@@ -160,5 +160,5 @@ def main():
 main()
 
 // Consume the newline character Version 7.1
-// End of Qotation 
+// End of Qotation
 
