@@ -11,7 +11,7 @@
         self.a=a  
         self.name=name  
         self.address=address 
-        self.cindate=cindate  
+        self.cindate=cindate   
         self.coutdate=coutdate
         self.rno=rno    
     def inputdata(self):    
