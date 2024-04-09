@@ -151,7 +151,7 @@ def main():
 
         if (b==4):
 
-            a.display()
+            a.display() 
 
         if (b==5): 
 
