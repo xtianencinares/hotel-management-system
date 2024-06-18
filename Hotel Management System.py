@@ -1,4 +1,4 @@
-  class hotelmanage:
+class hotelmanage:
 
     def __init__(self,rt='',s=0,p=0,r=0,t=0,a=1000,name='',address='',cindate='',coutdate='',rno=1):
  
