@@ -29,9 +29,9 @@
   
         print ("2.  Class B---->3000")
 
-        print ("3.  Class C---->2500")
+        print ("3.  Class C---->2600")
 
-        print ("4.  Class D---->1000")
+        print ("4.  Class D---->1100")
 
         x=int(input("Enter the number of your choice Please->"))
 
